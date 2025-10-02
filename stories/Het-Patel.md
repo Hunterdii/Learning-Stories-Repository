@@ -38,7 +38,6 @@ This story is about my steps into programming, the challenges I faced, and the l
 1. **Iterate fast** — don’t wait for perfection to launch.
 2. **Ask for help** — communities (and AI tools) accelerate learning.
 3. **Read error messages** — most problems already have clues in the traceback.
-
 ---
 
 ## 🔮 Future Goals
